@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.category {
+    background-color: #002868;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 400px;
+    text-transform: uppercase;
+}
+
+.header-text {
+    background-color: #fff;
+    background-image: linear-gradient(to right, #EF2B2D, #002868);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    text-align: left;
+    text-transform: uppercase;
+}
