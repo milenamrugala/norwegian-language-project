@@ -1,6 +1,7 @@
 Homepage:
 
-<img width="1454" alt="Zrzut ekranu 2023-07-7 o 18 26 44" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/b5f2627a-c878-45b1-b496-78ce1761ed7b">
+![Uploading Zrzut ekranu 2023-07-7 o 18.37.56.png…]()
+
 
 Categories:
 
