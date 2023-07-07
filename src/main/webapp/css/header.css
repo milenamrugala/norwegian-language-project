@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: linear-gradient(to right, #EF2B2D, #002868);
+    height: 100px;
+    text-align: center;
+}
+
+.header h1 {
+    color: #FFF;
+    padding-top: 40px;
+    font-size: 28px;
+    text-transform: uppercase;
+}
