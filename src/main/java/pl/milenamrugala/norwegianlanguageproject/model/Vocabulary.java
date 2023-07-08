@@ -28,7 +28,7 @@ public class Vocabulary {
     private String translation;
     private String sentence;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "category_id")
     private Category category;
 
