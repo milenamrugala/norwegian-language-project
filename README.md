@@ -6,4 +6,6 @@ Homepage:
 
 Categories:
 
-<img width="1165" alt="Zrzut ekranu 2023-07-7 o 18 26 56" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/ad6617f6-1f6c-45b9-b06e-977a94a28c18">
+<img width="1406" alt="Zrzut ekranu 2023-07-8 o 18 00 19" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/0b0e4263-a290-4df0-bce7-32106d0a1bd0">
+
+<img width="1420" alt="Zrzut ekranu 2023-07-8 o 18 00 00" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/4e7957b1-e469-43b5-8f29-304fa2512ddb">
