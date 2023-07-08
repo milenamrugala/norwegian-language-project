@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: #333;
+    text-transform: uppercase;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.header-text {
+    background-color: #fff;
+    background-image: linear-gradient(to right, #EF2B2D, #002868);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
