@@ -20,7 +20,9 @@
             <tr>
                 <td>
                     <div class="category">
-                            ${category.name}
+                        <a style="color: #ffffff; text-decoration: none;" class="category-link" href="/norwegian-language/vocabulary/${category.id}">
+                                ${category.name}
+                        </a>
                     </div>
                 </td>
             </tr>
