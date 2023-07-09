@@ -11,7 +11,7 @@ Features:
 3. Vocabulary practice -  each category includes appropriate vocabulary for users to practice and master.
 
 
-Homepage:
+Homepage with language levels:
 
 <img width="1454" alt="Zrzut ekranu 2023-07-7 o 18 37 56" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/59d8bb91-017b-488e-8826-ce850a60a722">
 
@@ -28,3 +28,6 @@ Vocabulary:
 <img width="1447" alt="Zrzut ekranu 2023-07-8 o 21 04 26" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/f30c8538-b4e2-4877-8f6a-1312cacb66c6">
 
 <img width="1364" alt="Zrzut ekranu 2023-07-8 o 21 04 43" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/c2a91a96-45f0-4a85-bf0e-2e86e22f1fc4">
+
+<img width="1379" alt="Zrzut ekranu 2023-07-9 o 19 02 20" src="https://github.com/milenamrugala/norwegian-language-project/assets/123079896/bdc7c688-7068-4f91-afae-75e65fcbdd0d">
+
